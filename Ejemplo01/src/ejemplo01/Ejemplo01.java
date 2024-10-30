@@ -21,6 +21,7 @@ public class Ejemplo01 {
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
         nombreEstudiante = "Felipe Elizalde";
+        // se le puede cambiar el valor a la variable e imprimira el nuevo valor asignado a la variable 
         System.out.println(nombreEstudiante);
     }
     
