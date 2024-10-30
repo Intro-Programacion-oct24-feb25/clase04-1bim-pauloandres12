@@ -18,5 +18,7 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+        // el println imprime el valor de la varible y da un salto de linea
+        // el print imprime el valor de la variable siguiendo la misma linea
     }
 }
