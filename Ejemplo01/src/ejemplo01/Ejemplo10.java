@@ -18,14 +18,7 @@ public class Ejemplo10 {
         String apellidoEstudiante = "Bustamante Correa";
         int nacimiento = 2005;
         
-        /*System.out.println(nombreEstudiante+"\n"+apellidoEstudiante+ "\n"+ 
-                nacimiento);
-        
-        System.out.println(nombreEstudiante+"\n\n"+apellidoEstudiante+ "\n\n"+ 
-                nacimiento);
-        
-        System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
-                "\n"+ nacimiento); */
-        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+nacimiento);   
+        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+
+                nacimiento);   
     }
 }
